@@ -31,7 +31,7 @@ body {
     width: 100%; /* Take full width */
     max-width: 900px; /* Limit width for better design */
     background: rgba(255, 255, 255, 0.9);
-    padding: 20px;
+    padding: 30px;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     flex-grow: 1; /* Allow the container to grow and fill the remaining space */
